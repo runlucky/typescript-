@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/runlucky/typescript-/issues"
   },
-  "homepage": "https://github.com/runlucky/typescript-#readme"
+  "homepage": "https://github.com/runlucky/typescript-#readme",
+  "dependencies": {
+    "@types/node": "^12.12.17",
+    "uuid": "^3.3.3"
+  }
 }
